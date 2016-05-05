@@ -1,3 +1,5 @@
 Hello world!
 Learning to use Git better!
 RC1 update
+Bug fix change2
+
